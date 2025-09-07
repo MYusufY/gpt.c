@@ -1,6 +1,6 @@
 # gpt.c
 
-![gpt.c logo](assets/logo.png)
+![gpt.c logo](https://github.com/MYusufY/gpt.c/blob/assets/gptdotc.png)
 
 GPT version of [Andrej Karpathy](https://github.com/karpathy)'s [Llama2.c](https://github.com/karpathy/llama2.c).
 
